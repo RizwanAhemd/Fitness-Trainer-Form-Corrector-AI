@@ -1,7 +1,7 @@
 streamlit==1.45.1
-mediapipe==0.10.14
 opencv-python-headless==4.10.0.84
 tensorflow==2.16.1
 numpy==1.26.4
 Pillow
 pandas
+mediapipe==0.10.35
