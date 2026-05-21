@@ -1,7 +1,9 @@
 streamlit==1.45.1
+streamlit-webrtc==0.62.4
 opencv-python-headless==4.10.0.84
 mediapipe==0.10.35
 numpy==1.26.4
 protobuf==4.25.3
+av==14.4.0
 Pillow
 pandas
